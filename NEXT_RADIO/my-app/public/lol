@@ -1,0 +1,16 @@
+- components/
+  - Header.tsx
+  - Story.tsx
+  - StoryCreationForm.tsx
+- pages/
+  - index.tsx
+  - login.tsx
+  - signup.tsx
+- api/
+  - stories.ts
+  - users.ts
+- styles/
+  - global.css
+- utils/
+  - auth.ts
+  - api.ts
