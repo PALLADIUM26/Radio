@@ -21,10 +21,10 @@ THE AUTHENTICATION PART INCLUDES : <br>
 <br><img src="RadioPrototypeSS/signupRadio.png" alt="signup_image"><br><br>
 **TO CREATE, EDIT AND SHARE AUDIO POSTS :**<br>
 <br><img src="RadioPrototypeSS/createpostRadio.png" alt="create_image"><br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="edit_image"><br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="share_image"><br><br>
+<br><img src="RadioPrototypeSS/editpostRadio.png" alt="edit_image"><br>
+<br><img src="RadioPrototypeSS/sharepostRadio.png" alt="share_image"><br><br>
 **THIS PART IS FOR THE AUDIO DMs<**br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="chat_image"><br><br>
+<br><img src="RadioPrototypeSS/dmaudiosRadio.png" alt="chat_image"><br><br>
 ## Tech Stack
 
 - **Node.js**: Backend server
