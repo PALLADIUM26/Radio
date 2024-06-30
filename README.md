@@ -8,6 +8,12 @@ Welcome to **Radio**! This platform allows you to post your audio content on a d
 - **Audience Reach:** Connect with listeners who value your words and ideas.
 - **Focus on Voice:** Engage with your audience without the bias of visual appearances.
 
+## Design Prototype
+
+You can check out the **basic design prototype** [here](https://www.figma.com/proto/7r2qOzuliGcML1Ldln1fqK/Radio?page-id=0%3A1&node-id=143-23752&viewport=887%2C201%2C0.05&t=BIPssg6Ak0p5aQ1l-1&scaling=scale-down&starting-point-node-id=143%3A23752&content-scaling=fixed).<br>
+Meanwhile, here are some pictures of the prototype :-
+<img src="" alt="prototype_image">
+
 ## Tech Stack
 
 - **Node.js**: Backend server
