@@ -12,19 +12,19 @@ Welcome to **Radio**! This platform allows you to post your audio content on a d
 
 You can check out the **basic design prototype** [here](https://www.figma.com/proto/7r2qOzuliGcML1Ldln1fqK/Radio?page-id=0%3A1&node-id=143-23752&viewport=887%2C201%2C0.05&t=BIPssg6Ak0p5aQ1l-1&scaling=scale-down&starting-point-node-id=143%3A23752&content-scaling=fixed).<br><br>
 Meanwhile, here are some pictures of the prototype :- <br><br>
-THE HOME PAGE <br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="prototype_image">
+**THE HOME PAGE** <br>
+<br><img src="RadioPrototypeSS/homepgRadio.png" alt="prototype_image"><br><br>
 THE AUTHENTICATION PART INCLUDES : <br>
-- THE LOGIN POPUP (Account already exists) <br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="login_image">
-- THE SIGNUP POPUP (Create new account) <br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="signup_image">
-TO CREATE, EDIT AND SHARE AUDIO POSTS : <br>
+- **THE LOGIN POPUP** (Account already exists) <br>
+<br><img src="RadioPrototypeSS/loginRadio.png" alt="login_image"><br><br>
+- **THE SIGNUP POPUP** (Create new account) <br>
+<br><img src="RadioPrototypeSS/homepgRadio.png" alt="signup_image"><br><br>
+**TO CREATE, EDIT AND SHARE AUDIO POSTS : **<br>
 <br><img src="RadioPrototypeSS/homepgRadio.png" alt="create_image"><br>
 <br><img src="RadioPrototypeSS/homepgRadio.png" alt="edit_image"><br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="share_image"><br>
-THIS PART IS FOR THE AUDIO DMs<br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="chat_image">
+<br><img src="RadioPrototypeSS/homepgRadio.png" alt="share_image"><br><br>
+**THIS PART IS FOR THE AUDIO DMs<**br>
+<br><img src="RadioPrototypeSS/homepgRadio.png" alt="chat_image"><br><br>
 ## Tech Stack
 
 - **Node.js**: Backend server
