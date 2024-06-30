@@ -18,7 +18,7 @@ THE AUTHENTICATION PART INCLUDES : <br>
 - **THE LOGIN POPUP** (Account already exists) <br>
 <br><img src="RadioPrototypeSS/loginRadio.png" alt="login_image"><br><br>
 - **THE SIGNUP POPUP** (Create new account) <br>
-<br><img src="RadioPrototypeSS/homepgRadio.png" alt="signup_image"><br><br>
+<br><img src="RadioPrototypeSS/signupRadio.png" alt="signup_image"><br><br>
 **TO CREATE, EDIT AND SHARE AUDIO POSTS : **<br>
 <br><img src="RadioPrototypeSS/homepgRadio.png" alt="create_image"><br>
 <br><img src="RadioPrototypeSS/homepgRadio.png" alt="edit_image"><br>
